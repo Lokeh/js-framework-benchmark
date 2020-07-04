@@ -3,8 +3,7 @@
   "resources"
   "checkouts/helix/src"]
 
- :dependencies [[lilactown/helix "0.0.10"]
-                [lucywang000/hashp "0.1.2"]
+ :dependencies [[lilactown/helix "0.0.13"]
                 [binaryage/devtools "1.0.0"]]
 
  :nrepl {:port 6666
